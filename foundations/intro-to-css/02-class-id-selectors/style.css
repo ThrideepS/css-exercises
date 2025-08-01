@@ -1,0 +1,20 @@
+.a {
+    background-color: pink;
+    color: black;
+    font-size: large;
+}
+.b {
+    background-color: pink;
+    color: black;
+    font-size: x-large;
+}
+#x {
+    background-color: transparent;
+    color: blue;
+    font-size: xx-large;
+}
+#y{
+    background-color: greenyellow;
+    color: black;
+    font-size: x-large;
+}
